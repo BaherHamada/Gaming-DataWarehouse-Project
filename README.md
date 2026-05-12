@@ -292,8 +292,4 @@ Implemented filtering by:
 - Developed interactive business dashboards
 - Applied real-world Data Warehouse concepts and best practices
 
----
 
-# 👨‍💻 Author
-
-Baher Hamada
